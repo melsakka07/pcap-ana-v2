@@ -1,6 +1,6 @@
 SIP Analysis Summary
 ==================================================
-Analysis Date: 2024-11-22 12:34:49
+Analysis Date: 2024-11-22 13:29:24
 Input File: VoWIFI.pcap
 Total SIP Packets: 60
 REGISTER Messages: 0

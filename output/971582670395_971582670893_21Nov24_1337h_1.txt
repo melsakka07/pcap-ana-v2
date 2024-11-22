@@ -1,7 +1,7 @@
 SIP Analysis Summary
 ==================================================
-Analysis Date: 2024-11-22 13:27:25
-Input File: 971582670395_971582670893_21Nov24_1337h.pcap
+Analysis Date: 2024-11-22 13:29:07
+Input File: 971582670395_971582670893_21Nov24_1337h_1.pcap
 Total SIP Packets: 2
 REGISTER Messages: 1
 INVITE Messages: 0

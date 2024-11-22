@@ -40,10 +40,25 @@ The script includes error handling for:
 The script extracts and parses:
 - Message Type (REGISTER/INVITE)
 - Timestamp
+- Call-ID
 - To Header
 - From Header
-- P-Access-Network-Info
-- Cellular-Network-Info
+- Contact Header
+- Via Header
+- CSeq
+- User-Agent
+- Allow
+- Content-Type
+- Content-Length
+- P-Access-Network-Info with parameters:
+  - Network type
+  - i-wlan-node-id
+  - country
+- Cellular-Network-Info with parameters:
+  - Network type
+  - utran-cell-id-3gpp
+  - cell-info-age
+- Cell-ID (extracted from utran-cell-id-3gpp)
 
 ## 📄 License
 
