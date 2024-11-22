@@ -1,0 +1,142 @@
+Extracted SIP REGISTER Information:
+==================================================
+
+Timestamp: 2024-11-21 10:14:10.751639
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:14:10.825396
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:14:11.127550
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:14:11.236855
+To: <sip:+971529910763@ims.du.ae>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:17:14.704505
+To: <sip:+971529910763@ims.du.ae>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:17:14.622718
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:18:43.355975
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:31:51.825619
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:31:51.900760
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:31:52.220816
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:32:11.255100
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:33:22.461887
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:33:22.520719
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:33:22.863273
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:38:08.174974
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:38:08.490450
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Timestamp: 2024-11-21 10:38:08.103076
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Timestamp: 2024-11-21 11:13:43.570483
+To: <sip:+971529910511@ims.du.ae>
+--------------------------------------------------
